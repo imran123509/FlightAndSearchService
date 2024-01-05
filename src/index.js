@@ -6,5 +6,7 @@ const app=express();
 
 app.listen(PORT, ()=>{
     console.log(`server is connect ${PORT}`)
-   
+   //console.log(process.env)
+//    const repo= new cityrepository();
+//    repo.createCity({name: "New Delhi"});
 })
