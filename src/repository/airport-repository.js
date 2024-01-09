@@ -6,4 +6,4 @@ class AirportRepository extends CrudRepository {
     }
 }
 
-module.exports=AirportRepository;
+module.exports=AirportRepository;   
